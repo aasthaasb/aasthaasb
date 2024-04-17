@@ -1,4 +1,4 @@
-###👋 Hello!! I'm Aastha,an Electrical Engineering undergrad at IIT Jodhpur
+## 👋 Hello!! I'm Aastha,an Electrical Engineering undergrad at IIT Jodhpur
 
  My interests span computer architecture, digital electronics, and operating systems, with a focus on SoC/ASIC design(RTL coding).
  💻 I'm passionate about programming in C, Python, and exploring machine learning basics, all while testing my skills in DSA. Beyond academics, I enjoy contributing to open-source projects on GitHub related to ML,DSA and RTL applications.
