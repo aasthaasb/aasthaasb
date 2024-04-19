@@ -5,4 +5,3 @@
 
 📚 Outside the tech realm, I'm an avid reader with a love for Indian history.Music fuels my creativity, and I'm actively involved in co-curricular activities on campus.
 
-🚀 Let's connect for discussions on tech, books, or anything in between!
